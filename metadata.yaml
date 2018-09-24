@@ -1,0 +1,32 @@
+_repo: Elias-Lonnrotin-matkat-II-1841-1844_56497
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hahl, Jalmari
+    alias: Hahl, J.
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '8054'
+    url: http://www.gutenberg.org/2009/agents/8054
+creator:
+  author:
+    agent_name: Lönnrot, Elias
+    alias: Lonnrot, Elias
+    birthdate: 1802
+    deathdate: 1884
+    gutenberg_agent_id: '4153'
+    url: http://www.gutenberg.org/2009/agents/4153
+    wikipedia: http://en.wikipedia.org/wiki/Elias_Lönnrot
+description: ''
+gutenberg_issued: '2018-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56497'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elias Lönnrotin matkat II: 1841-1844'
+url: http://www.gutenberg.org/ebooks/56497
